@@ -44,9 +44,9 @@ export const shoes = [
 ];
 
 export const statistics = [
-  { value: '1k+', label: 'Brands' },
-  { value: '500+', label: 'Shops' },
-  { value: '250k+', label: 'Customers' },
+  { value: '', label: 'Brands' },
+  { value: '', label: 'Shops' },
+  { value: '', label: 'Customers' },
 ];
 
 export const products = [
@@ -58,19 +58,19 @@ export const products = [
   },
   {
     imgURL: shoe5,
-    name: 'B-13Air Jordan-10',
+    name: ' Air Jordan-10',
     rating: 3.9,
     price: '$500.60',
   },
   {
     imgURL: shoe6,
-    name: 'B-13Air Jordan-100',
+    name: ' Air Jordan-100',
     rating: 4.2,
     price: '$260.30',
   },
   {
     imgURL: shoe7,
-    name: 'B-13Air Jordan-001',
+    name: ' Air Jordan-001',
     rating: 3.8,
     price: '$390.90',
   },
